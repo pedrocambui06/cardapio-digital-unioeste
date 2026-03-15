@@ -2,7 +2,7 @@
 
 Cardápio Digital Desenvolvido para Alunos e Funcionários que Frequentam os Restaurantes Universitários da Unioeste em Foz do Iguaçu.
 
-**Acesse o Projeto:** https://eupedrocambui.github.io/cardapio-digital-unioeste/
+**Acesse o Projeto:** https://pedrocambui06.github.io/cardapio-digital-unioeste/
 
 ## Objetivo
 O objetivo foi **criar um cardápio digital** para os restaurantes universitários da Unioeste, incluindo o campus Jardim Universitário (JU)
