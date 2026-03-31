@@ -50,7 +50,7 @@ Disponibilização de uma página dedicada ao envio de feedbacks, sugestões ou 
 ## Como Executar o Projeto Localmente
 1- Clone o Projeto:
 ```bash
-git clone https://github.com/eupedrocambui/cardapio-digital-unioeste
+git clone https://github.com/pedrocambui06/cardapio-digital-unioeste.git
 ```
 
 2- Acesse o Diretório:
@@ -111,4 +111,4 @@ cardapio-digital-unioeste/
 
 ---
 
-Feito por [Pedro C. Martins](https://github.com/eupedrocambui)
+Feito por [Pedro C. Martins](https://github.com/pedrocambui06)
